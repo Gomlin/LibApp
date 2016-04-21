@@ -57,3 +57,8 @@ C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\System
 C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\Antlr3.Runtime.pdb
 C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\obj\Debug\LibAppWebAPI.dll
 C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\obj\Debug\LibAppWebAPI.pdb
+C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\MongoDB.Bson.dll
+C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\MongoDB.Driver.Core.dll
+C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\MongoDB.Driver.dll
+C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\MongoDB.Bson.xml
+C:\Users\Andre\Projects\LibApp\LibAppWebAPI\LibAppWebAPI\LibAppWebAPI\bin\MongoDB.Driver.xml
